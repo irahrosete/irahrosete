@@ -8,7 +8,7 @@ I'm an analyst by trade looking to transition to web and software development. I
 In my spare time, I dabble with graphic design and digital illustration. Check out some of my work [here](https://www.instagram.com/ir.dsgns/).
 
 #### Get in touch... 💬
-[🔭](https://www.linkedin.com/in/irahlillenrosete/) [📫](https://twitter.com/IrahRosete) [⚡](https://www.instagram.com/ir.dsgns/)
+[<img src="linkedin.png">](https://www.linkedin.com/in/irahlillenrosete/) [<img src="twitter.png">](https://twitter.com/IrahRosete) [<img src="instagram.png">](https://www.instagram.com/ir.dsgns/)
 
 
 <!--
