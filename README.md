@@ -1,4 +1,15 @@
-### Hi there 👋
+#### Hi there! 👋 
+
+#### I'm Irah.
+
+I'm a developer in the making currently enrolled in the Flex Track Bootcamp at [Coder Academy](https://coderacademy.edu.au/).
+I'm an analyst by trade looking to transition to web and software development. I'm a lover of design, process and coffee :coffee:.
+
+In my spare time, I dabble with graphic design and digital illustration. Check out some of my work [here](https://www.instagram.com/ir.dsgns/).
+
+#### Get in touch... 💬
+[🔭](https://www.linkedin.com/in/irahlillenrosete/) [📫](https://twitter.com/IrahRosete) [⚡](https://www.instagram.com/ir.dsgns/)
+
 
 <!--
 **irahrosete/irahrosete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
