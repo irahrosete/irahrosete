@@ -27,3 +27,5 @@ Here are some ideas to get you started:
 
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irahrosete&show_icons=true&theme=nord) 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=irahrosete&show_icons=true&count_private=true&theme=nord)
+
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=irahrosete&repo=repo-name)](https://github.com/irahrosete/portfolio-site)
