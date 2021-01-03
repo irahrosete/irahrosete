@@ -25,8 +25,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irahrosete&show_icons=true&theme=nord) 
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=irahrosete&show_icons=true&theme=nord)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=irahrosete&show_icons=true&count_private=true&theme=nord)
 
-
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=irahrosete&repo=portfolio-site&theme=nord)](https://github.com/irahrosete/portfolio-site)
+<!--
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=irahrosete&repo=portfolio-site&theme=nord)](https://github.com/irahrosete/portfolio-site)?
+-->
