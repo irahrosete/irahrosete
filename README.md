@@ -29,4 +29,4 @@ Here are some ideas to get you started:
 ![Github stats](https://github-readme-stats.vercel.app/api?username=irahrosete&show_icons=true&count_private=true&theme=nord)
 
 
-[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=irahrosete&repo=portfolio-site)](https://github.com/irahrosete/portfolio-site)
+[![Repo name](https://github-readme-stats.vercel.app/api/pin/?username=irahrosete&repo=portfolio-site&theme=nord)](https://github.com/irahrosete/portfolio-site)
