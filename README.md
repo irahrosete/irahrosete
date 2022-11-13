@@ -1,14 +1,15 @@
-#### Hi there! 👋 
+#### Hi there! 👋
 
 #### I'm Irah.
 
-I'm a graduate of the flex track coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). I have recently transitioned from a career in the financial services industry into software engineering.
+I'm a graduate of the flex track coding bootcamp at [Coder Academy](https://coderacademy.edu.au/). I have recently transitioned from a career in the financial services industry into software engineering. I'm currently an industry mentor to budding women software engineers at [She Codes AU](https://shecodes.com.au/).
 
 I'm a lover of design, process and coffee :coffee:.
 
 In my spare time, I dabble with graphic design and digital illustration. Check out some of my work [here](https://www.instagram.com/ir.dsgns/).
 
 #### Get in touch... 💬
+
 [<img src="linkedin.png">](https://www.linkedin.com/in/irahlillenrosete/) [<img src="twitter.png">](https://twitter.com/IrahRosete) [<img src="instagram.png">](https://www.instagram.com/ir.dsgns/)
 
 <!--
